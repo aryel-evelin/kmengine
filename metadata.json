@@ -1,0 +1,6 @@
+{
+  "name": "KM | Creative Growth AI",
+  "description": "AI-powered engine that analyzes Instagram profiles to decode viral patterns and tone of voice, generating high-converting VSL and Reel scripts from external reference links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
