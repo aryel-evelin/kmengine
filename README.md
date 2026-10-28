@@ -51,6 +51,10 @@ Without pytest, `python -m unittest discover -s tests` works too.
 - `tests/` – offline unit tests
 - `server.ts`, `index.html`, `vite.config.ts` – front-end and its dev server
 
+## Releases
+
+Current version: v0.1.0
+
 ## License
 
 MIT – see [LICENSE](LICENSE).
